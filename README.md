@@ -88,7 +88,6 @@ An intuitive **Flask-based web app** was created for real-time prediction:
 - 🧠 Backend: Pretrained `VGG16` and `ResNet101` models
 - 🎨 Frontend: Bootstrap-powered interface
 
-> ⚠️ If deployed: _add live link here (e.g. Streamlit, Render, or Hugging Face)_
 
 ---
 
